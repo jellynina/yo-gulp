@@ -1,6 +1,8 @@
 {
   "name": "yo-gulp",
+  "version": "0.0.1",
   "private": true,
+  "description": "ikea learn to mantain gulp workflow with yo.",
   "dependencies": {
     "bootstrap-sass": "~3.3.5"
   },

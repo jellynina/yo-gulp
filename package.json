@@ -1,7 +1,14 @@
 {
+  "name":"yo-gulp"
+  "version": "0.0.1",
   "private": true,
+  "description": "ikea learn to mantain gulp workflow with yo.",
   "engines": {
     "node": ">=0.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellynina/yo-gulp.git"
   },
   "devDependencies": {
     "babel-core": "^5.5.6",
